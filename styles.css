@@ -1,0 +1,17 @@
+
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.nav-bar {
+    background: red;
+    height: 4rem;
+    text-align: center;
+    /* padding-top: 10px; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
