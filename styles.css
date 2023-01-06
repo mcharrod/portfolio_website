@@ -19,7 +19,6 @@ html, body {
 }
 
 .banner {
-    background: red;
     aspect-ratio: 9/3;
     width: 100%;
     background-image: url("katy banner.jpeg");
